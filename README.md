@@ -1,6 +1,5 @@
 # line_processor
-CS344 Assignment 4
-Mikayla Friend (friendM)
+Multi-threaded Producer Consumer Pipeline
 
 Compile
 Make sure all code files and the terminal are in the same directory. In the
